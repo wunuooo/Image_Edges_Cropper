@@ -1,7 +1,7 @@
 # Image_Edges_Cropper
 图片透明/白色边缘批量裁剪工具.
 
-<img src="ProgramInterface.png" width="900px">
+<img src="ProgramInterface_zh_CN.png" width="900px">
 
 * 输入文件夹：程序会读取所选输入文件夹直接包含的，后缀为「.png」「.jpg」「.jpeg」的图片文件，子文件夹下的文件将不会被读取。
 
