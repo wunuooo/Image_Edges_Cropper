@@ -192,7 +192,7 @@ class MainWindow(QMainWindow):
     input_path_text = ["仅处理文件夹直接包含的图片，后缀支持 .png .jpg .jpeg", "Only Handle Images Directly In Input Folder, With Extensions .png .jpg .jpeg"]
     output_path_text = ["若为空，则自动在输入文件夹下创建 output 文件夹以储存", "If Empty, Automatically Create An 'output' Folder In Input Folder For Storage"]
     group_box_text = ["裁剪模式", "Cropping Mode"]
-    alpha_button_text = ["透明边缘", "Alpha"]
+    alpha_button_text = ["透明边缘", "Transparent"]
     white_button_text = ["白色边缘", "White"]
     start_button_text = ["启动", "Start"]
     pause_button_text = ["暂停", "Pause"]
@@ -462,6 +462,7 @@ class MainWindow(QMainWindow):
                 self.info_box.setText(self.info_box_text[0])
             self.info_label.setText(self.click_info_label[0])
             self.lang_label.setText(self.click_lang_label[0])
+            self.white_button.setGeometry(100, 15, 100, 30)
 
         else:
             self.setWindowTitle(self.window_title[1])
@@ -486,6 +487,7 @@ class MainWindow(QMainWindow):
                 self.info_box.setText(self.info_box_text[1])
             self.info_label.setText(self.click_info_label[1])
             self.lang_label.setText(self.click_lang_label[1])
+            self.white_button.setGeometry(120, 15, 100, 30)
         
 
 
