@@ -12,3 +12,5 @@ A tool to crop batch images with transparent or white edges.
 * Start and cease: You can also pause or resume the program while running.
 
 <img src="Diagram.png" width="700px">
+
+Read this in other languages: zn_CN [Chinese](readme/README.zh_CN.md)
