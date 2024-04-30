@@ -12,3 +12,5 @@
 * 启动与终止：运行程序或结束程序，可中途暂停或继续。
 
 <img src="Diagram.png" width="700px">
+
+其他语言版本：en [English](README.md)
