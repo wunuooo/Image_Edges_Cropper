@@ -1,7 +1,7 @@
 # Image_Edges_Cropper
 A tool to crop batch images with transparent or white edges.
 
-<img src="Diagram.png" width="700px">
+<img src="ProgramInterface.png" width="900px">
 
 * Input folder: The program will read image files with the extensions ".png", ".jpg", or ".jpeg" directly contained in the selected input folder. Files in subfolders will not be read.
 
@@ -11,4 +11,4 @@ A tool to crop batch images with transparent or white edges.
 
 * Start and cease: You can also pause or resume the program while running.
 
-<img src="ProgramInterface.png" width="900px">
+<img src="Diagram.png" width="700px">
