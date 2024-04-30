@@ -13,4 +13,4 @@ A tool to crop batch images with transparent or white edges.
 
 <img src="Diagram.png" width="700px">
 
-Read this in other languages: zn_CN [Chinese](readme/README.zh_CN.md)
+Read this in other languages: zn_CN [Chinese](README.zh_CN.md)
