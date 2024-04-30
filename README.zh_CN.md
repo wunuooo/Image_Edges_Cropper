@@ -13,4 +13,4 @@
 
 <img src="Diagram.png" width="700px">
 
-其他语言版本：en [English](README.md)
+英文介绍版本：en [English](README.md)
